@@ -1,0 +1,14 @@
++ hola
+- Bienvenido a la Aerolínea PROTECO 
+^  Hola ¿Como estas?
++ bien quiero viajar
+- ¿De donde partes?
++ parto de *
+- <set origen=<star>>
+^ ¿Hacía donde vas?
++ voy a *
+- <set destino=<star>> ¿Podrias proporcionar la fecha y hora ?
++ *
+
+- Viajas de <get origen> a <get destino> el <star>
+

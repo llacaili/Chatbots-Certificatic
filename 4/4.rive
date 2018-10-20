@@ -1,0 +1,21 @@
+! version = 2.0
+
++ Hola
++ Buenas Tardes
+- Buenas Tardes
+- ¿Cómo estas?
+-¿Quiere agendar un vuelo o recibir información del estado de su vuelo?
++ Recibir información.
+- Lo sentimos por el momento el estado de su vuelo no se encuentra disponible
++ Agendar un vuelo
+- ¿Cúal es la ciudad o aeropuerto de salida?
++ *
+- ¿Cúal es la ciudad o aeropuerto de destino?
++ * 
+- ¿Cúal es la fecha de salida?
++ *
+- ¿Cúal es la hora de salida?
++ * 
+- La información de su vuelo es  salida: <star1> destinoi: <star2>
+- Fecha de salida: <star3>
+- Hora de salida <star4>
